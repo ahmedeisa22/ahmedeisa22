@@ -23,8 +23,7 @@
 <a href="https://www.linkedin.com/in/ahmed-eissa-890ba71a2/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eissa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AhmedEissa123" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%2Eissa0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=javascript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
